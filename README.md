@@ -51,10 +51,3 @@ A community resource list for all things related to custom SF Symbols and the pe
 - [**How to color your SF Symbols**](https://medium.com/@mkproduct-stories/how-to-color-your-sf-symbols-35892fcdc508) - medium.com/@mkproduct-stories
 
 [Back to top](#contents)
-
-<style>
-a {
-  color: #00a3c7;
-  text-decoration: none;
-}
-</style>
