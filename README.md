@@ -17,6 +17,7 @@ A community resource list for all things related to custom SF Symbols and the pe
 
 *Individual custom SF Symbols or packs of symbols (please refer to each source for license details including attribution requirements)*
 
+- [**Clipping Symbols**](https://github.com/jblakeh1/clipping-sf-symbols) - Clipping symbols inspired by classic mac icons
 - [**Icons8**](https://icons8.com/l/sf/) - 75 logos for various companies
 - [**Social Symbols**](https://github.com/jeremieb/social-symbols) - Social icons (including Mastodon)
 - [**SF Feathers**](https://nielsx.gumroad.com/l/sf-feathers) - A comprehensive set of nearly 300 symbols
