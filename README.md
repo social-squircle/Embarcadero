@@ -40,6 +40,12 @@ A community resource list for all things related to custom SF Symbols and the pe
 
 - [**SF Symbols**](https://developer.apple.com/sf-symbols/) - Apple's own app, essential for working with symbols
 - [**Adaptivity**](https://hacknicity.com/adaptivity) - Explore all versions of Apple's SF Symbols catalog (and several third-party sets) and make sure you're keeping up with the latest changes and new configuration capabilities
+- [**SF Symbols**](https://developer.apple.com/sf-symbols/) - Apple's own app, essential for working with symbols
+
+*Packages*
+
+- [**Nirma/SFSymbol**](https://github.com/Nirma/SFSymbol) - Autocompletion, categorization and version checking for SF Symbols
+- [**Rspoon3/SFSymbols**](https://github.com/Rspoon3/SFSymbols) - Autocompletion, categorization and version checking for SF Symbols
 
 [Back to top](#contents)
 
